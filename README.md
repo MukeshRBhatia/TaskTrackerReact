@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Git
+
+- created a repo on github
+- created a local folder
+- run git init, git remote add <name> <clone-url>, git add ., git commit -m "message", git push --set-upstream bhatiamax@gmail.com master (gitignore is add on git remote add from the repo)
+- since this got pushed to master branch, changed default repo on github from main to master, and deleted main branch
+
 ## Available Scripts
 
 In the project directory, you can run:
